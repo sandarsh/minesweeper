@@ -1,0 +1,15 @@
+{
+  "name": "minesweeper",
+  "version": "1.0.0",
+  "description": "\"Minesweeper with  a twist\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sandarsh Srivastav",
+  "license": "ISC",
+  "dependencies": {
+    "p5": "^0.5.11",
+    "require": "^2.4.20"
+  }
+}
